@@ -29,8 +29,8 @@ cursor: pointer;
     background-color: #75d281;
     max-width: 320px;
     width: 100%;
-    padding-left: 64px;
-    padding-right: 64px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .header-container {
 
@@ -59,6 +59,12 @@ cursor: pointer;
 .contact-item {
 }
 .contact-link {
+}
+.menu-btn {
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    fill: #030a06;
 }
 @media screen and (min-width: 768px) { 
 
